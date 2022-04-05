@@ -1,0 +1,16 @@
+{
+    "name": "33652/composer_queste",
+    "description": "projet queste composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yecine18",
+            "email": "yecine.kefi1@gmail.com"
+        }
+    ],
+    "require": {}
+}
